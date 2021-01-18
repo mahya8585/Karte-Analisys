@@ -1,0 +1,4 @@
+pandas~=1.1.0
+openpyxl
+xlrd
+mecab~=0.996.2
